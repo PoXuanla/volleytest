@@ -1,0 +1,2 @@
+rootProject.name='VollryTest'
+include ':app'
